@@ -1,1 +1,1 @@
-(xa2) ma premiere ligne
+(xa2 & xa1) ma premiere ligne
